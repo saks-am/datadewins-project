@@ -1,4 +1,4 @@
-# datadewins-project
+# datadewins-mini-project
 to use the project:
 1.download the zip file of the project
 2. extract the zipped flie
