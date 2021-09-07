@@ -6,7 +6,7 @@ prepare:
 	@sudo systemctl enable --now docker
 	@echo "installing required packages"
 up: prepare
-	@echo "initialising container"
+	@echo "^^initialising container^^"
 	@#! /bin/bash
 	@if [ ! -d docker ]; then\
 		mkdir docker;\
